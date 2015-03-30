@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="946003b8-0065-4a7c-8cbf-a7ab90a36af8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PractProg book/FileOpen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pirate Bartender/PirateBartender.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PractProg book/example.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pirate Bartender/PB_Examples.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pirate Bartender/PirateBartender.py" afterPath="$PROJECT_DIR$/Pirate Bartender/PirateBartender.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Thinkful-Python-Class.iws" />
@@ -21,9 +20,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$FizzBuzz2.coverage" NAME="FizzBuzz2 Coverage Results" MODIFIED="1426966282701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$ChemLoop.coverage" NAME="ChemLoop Coverage Results" MODIFIED="1427051407454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PractProg book" />
+    <SUITE FILE_PATH="coverage/Thinkful-Python-Class$PB_Examples.coverage" NAME="PB_Examples Coverage Results" MODIFIED="1427245807381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pirate Bartender" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$arthropod.coverage" NAME="arthropod Coverage Results" MODIFIED="1425855416675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Dropbox/code/python class/gwpy-code/code/oop" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$NestedLoop.coverage" NAME="NestedLoop Coverage Results" MODIFIED="1427042698747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PractProg book" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$scratchspace.coverage" NAME="scratchspace Coverage Results" MODIFIED="1426650235893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Thinkful-Python-Class$PirateBartender.coverage" NAME="PirateBartender Coverage Results" MODIFIED="1427405644322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pirate Bartender" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$menu.coverage" NAME="menu Coverage Results" MODIFIED="1425855154795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/Dropbox/code/python class/gwpy-code/code/gui" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$Simple_While.coverage" NAME="Simple_While Coverage Results" MODIFIED="1427044089822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PractProg book" />
     <SUITE FILE_PATH="coverage/Thinkful-Python-Class$FizzBuzz.coverage" NAME="FizzBuzz Coverage Results" MODIFIED="1426652681784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -69,8 +70,8 @@
       <file leaf-file-name="PirateBartender.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pirate Bartender/PirateBartender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4436536" vertical-offset="0" max-vertical-offset="843">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.56465006" vertical-offset="0" max-vertical-offset="843">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -81,6 +82,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PB_Examples.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pirate Bartender/PB_Examples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -107,6 +118,7 @@
         <option value="$PROJECT_DIR$/PractProg book/SimpleForLoop.py" />
         <option value="$PROJECT_DIR$/PractProg book/example.txt" />
         <option value="$PROJECT_DIR$/PractProg book/FileOpen.py" />
+        <option value="$PROJECT_DIR$/Pirate Bartender/PB_Examples.py" />
         <option value="$PROJECT_DIR$/Pirate Bartender/PirateBartender.py" />
       </list>
     </option>
@@ -115,8 +127,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
-    <option name="y" value="88" />
+    <option name="x" value="238" />
+    <option name="y" value="76" />
     <option name="width" value="2051" />
     <option name="height" value="1316" />
   </component>
@@ -212,7 +224,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.FileOpen">
+  <component name="RunManager" selected="Python.PirateBartender">
     <configuration default="false" name="speed_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,46 +239,6 @@
       <module name="Thinkful-Python-Class" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PractProg book/speed_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Simple_While" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PractProg book" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Thinkful-Python-Class" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PractProg book/Simple_While.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChemLoop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PractProg book" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Thinkful-Python-Class" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PractProg book/ChemLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -307,6 +279,46 @@
       <module name="Thinkful-Python-Class" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PractProg book/FileOpen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PirateBartender" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pirate Bartender" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Thinkful-Python-Class" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pirate Bartender/PirateBartender.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PB_Examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pirate Bartender" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Thinkful-Python-Class" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pirate Bartender/PB_Examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -547,18 +559,18 @@
       <item index="0" class="java.lang.String" itemvalue="Python.FizzBuzz2" />
       <item index="1" class="java.lang.String" itemvalue="Python.FizzBuzz" />
       <item index="2" class="java.lang.String" itemvalue="Python.speed_loop" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Simple_While" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ChemLoop" />
-      <item index="5" class="java.lang.String" itemvalue="Python.SimpleForLoop" />
-      <item index="6" class="java.lang.String" itemvalue="Python.FileOpen" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SimpleForLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FileOpen" />
+      <item index="5" class="java.lang.String" itemvalue="Python.PirateBartender" />
+      <item index="6" class="java.lang.String" itemvalue="Python.PB_Examples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FileOpen" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SimpleForLoop" />
-        <item index="2" class="java.lang.String" itemvalue="Python.speed_loop" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ChemLoop" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Simple_While" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PirateBartender" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PB_Examples" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FileOpen" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SimpleForLoop" />
+        <item index="4" class="java.lang.String" itemvalue="Python.speed_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +588,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="330" y="88" width="2051" height="1316" extended-state="0" />
+    <frame x="238" y="76" width="2051" height="1316" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -795,10 +807,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pirate Bartender/PB_Examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pirate Bartender/PirateBartender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4436536" vertical-offset="0" max-vertical-offset="843">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.56465006" vertical-offset="0" max-vertical-offset="843">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>

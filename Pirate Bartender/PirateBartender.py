@@ -16,8 +16,24 @@ ingredients = {
     "fruity": ["slice of orange", "dash of cassis", "cherry on top"]
 }
 
-def user_input():
-    if input == (questions[0:]):
-        print("Do ye like yer drinks strong?")
-    elif input == (questions[1:]):
-        print("Do ye like it with a salty tang?")
+
+def get_answer():
+    response = {}
+    for key, value in questions.items():
+        response = input("y or n")
+        print(value, questions[value])
+        return response
+
+
+def get_ingredients():
+    for key 
+
+
+
+
+
+
+
+
+if __name__ == '__main__':
+    get_answer(questions)
