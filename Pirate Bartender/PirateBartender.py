@@ -1,4 +1,5 @@
-__author__ = 'Ryan'
+__author__ = 'Ryan Kelley'
+import random
 
 questions = {
     "strong": "Do ye like yer drinks strong?",
@@ -20,20 +21,30 @@ ingredients = {
 def get_answer():
     response = {}
     for key, value in questions.items():
-        response = input("y or n")
-        print(value, questions[value])
-        return response
+        print(value)
+        response[key] = input().lower() in ["y" or "yes"]
+        print("")
+    return response
 
 
-def get_ingredients():
-    for key 
+def get_ingredients(response):
+    drink = []
+    for key, value in response.items():
+        if not value:
+            continue
 
+    drink.append(random.choice(ingredients[key]))
+    return drink
 
-
-
-
+def main():
+        response = get_answer()
+        drink = get_ingredients(response)
+        print("Here is your drink, ya fool!")
+        print("here is what you ordered!: ")
+        for i in drink:
+            print("{}".format(i))
 
 
 
 if __name__ == '__main__':
-    get_answer(questions)
+    main()
