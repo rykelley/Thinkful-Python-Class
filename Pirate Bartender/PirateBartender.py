@@ -13,7 +13,7 @@ ingredients = {
     "strong": ["glug of rum", "slug of whisky", "splash of gin"],
     "salty": ["olive on a stick", "salt-dusted rim", "rasher of bacon"],
     "bitter": ["shake of bitters", "splash of tonic", "twist of lemon peel"],
-    "sweet": ["sugar cube", "spoonful of honey", "spash of cola"],
+    "sweet": ["sugar cube", "spoonful of honey", "splash of cola"],
     "fruity": ["slice of orange", "dash of cassis", "cherry on top"]
 }
 
@@ -36,14 +36,14 @@ def get_ingredients(response):
     drink.append(random.choice(ingredients[key]))
     return drink
 
-def main():
-        response = get_answer()
-        drink = get_ingredients(response)
-        print("Here is your drink, ya fool!")
-        print("here is what you ordered!: ")
-        for i in drink:
-            print("{}".format(i))
 
+def main():
+    response = get_answer()
+    drink = get_ingredients(response)
+    print("Here is your drink, ya fool!")
+    print("here is what you ordered!: ")
+    for i in drink:
+        print("{}".format(i))
 
 
 if __name__ == '__main__':
