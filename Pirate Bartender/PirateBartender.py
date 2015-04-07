@@ -32,8 +32,8 @@ def get_ingredients(response):
     for key, value in response.items():
         if not value:
             continue
+        drink.append(random.choice(ingredients[key]))
 
-    drink.append(random.choice(ingredients[key]))
     return drink
 
 
