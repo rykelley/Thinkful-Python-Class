@@ -33,10 +33,7 @@ def get_ingredients(response):
         if not value:
             continue
         drink.append(random.choice(ingredients[key]))
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
     return drink
 
 
