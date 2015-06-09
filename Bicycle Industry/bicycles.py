@@ -13,4 +13,6 @@ class BicycleShop(object):
         self.inventory = inventory
         self.margin = margin
         self.profit = profit
-class 
+class Customers(object):
+
+    def __init__(self, cusname,  ):
