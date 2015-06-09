@@ -6,3 +6,11 @@ class Bicycle(object):
         self.model = model
         self.weight = weight
         self.cost = cost
+class BicycleShop(object):
+
+    def __init__(self, name, inventory, margin, profit ):
+        self.name = name
+        self.inventory = inventory
+        self.margin = margin
+        self.profit = profit
+class 
