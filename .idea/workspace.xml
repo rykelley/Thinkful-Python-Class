@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="946003b8-0065-4a7c-8cbf-a7ab90a36af8" name="Default" comment="">
-<<<<<<< HEAD
+
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bicycle Industry/bicycles.py" afterPath="$PROJECT_DIR$/Bicycle Industry/bicycles.py" />
-=======
-<<<<<<< Updated upstream
+
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Class Examples/SpinalTap.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bicycle Industry/bicycles.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bicycle Industry/main.py" />
-=======
+
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bicycle shop/ShopModel.py" />
->>>>>>> Stashed changes
+
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Thinkful-Python-Class.iml" afterPath="$PROJECT_DIR$/.idea/Thinkful-Python-Class.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
->>>>>>> origin/master
+
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Thinkful-Python-Class.iws" />
@@ -56,42 +55,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< Updated upstream
+
       <file leaf-file-name="bicycles.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bicycle Industry/bicycles.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+
             <state vertical-scroll-proportion="0.4436536">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-=======
+
             <state vertical-scroll-proportion="0.14116251">
               <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-=======
+
       <file leaf-file-name="PirateBartender.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pirate Bartender/PirateBartender.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="14" max-vertical-offset="840">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
->>>>>>> Stashed changes
+
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< Updated upstream
+
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bicycle Industry/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-=======
+
       <file leaf-file-name="ShopModel.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bicycle shop/ShopModel.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="1.2410072" vertical-offset="645" max-vertical-offset="1425">
               <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
->>>>>>> Stashed changes
->>>>>>> origin/master
               <folding />
             </state>
           </provider>
@@ -127,14 +124,12 @@
         <option value="$PROJECT_DIR$/PractProg book/FileOpen.py" />
         <option value="$PROJECT_DIR$/Pirate Bartender/PB_Examples.py" />
         <option value="$PROJECT_DIR$/Pirate Bartender/PirateBartender.py" />
-<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/Class Examples/SpinalTap.py" />
         <option value="$PROJECT_DIR$/Bicycle Industry/BicycleModel.py" />
         <option value="$PROJECT_DIR$/Bicycle Industry/main.py" />
         <option value="$PROJECT_DIR$/Bicycle Industry/bicycles.py" />
-=======
         <option value="$PROJECT_DIR$/Bicycle shop/ShopModel.py" />
->>>>>>> Stashed changes
+
       </list>
     </option>
   </component>
@@ -146,22 +141,21 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
+
     <option name="x" value="266" />
     <option name="y" value="182" />
-=======
-<<<<<<< Updated upstream
+
     <option name="x" value="227" />
     <option name="y" value="213" />
->>>>>>> origin/master
+
     <option name="width" value="2051" />
     <option name="height" value="1316" />
-=======
+
     <option name="x" value="54" />
     <option name="y" value="23" />
     <option name="width" value="1386" />
     <option name="height" value="877" />
->>>>>>> Stashed changes
+
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -194,7 +188,7 @@
               <option name="myItemId" value="Thinkful-Python-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-<<<<<<< Updated upstream
+
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -205,8 +199,7 @@
               <option name="myItemId" value="Thinkful-Python-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-=======
->>>>>>> Stashed changes
+
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -217,10 +210,10 @@
               <option name="myItemId" value="Thinkful-Python-Class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-<<<<<<< Updated upstream
+
             <PATH_ELEMENT>
               <option name="myItemId" value="Bicycle Industry" />
-=======
+
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -233,7 +226,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Bicycle shop" />
->>>>>>> Stashed changes
+
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,19 +238,19 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-<<<<<<< Updated upstream
+
     <property name="options.lastSelected" value="vcs.Git" />
-=======
+
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
->>>>>>> Stashed changes
+
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-<<<<<<< Updated upstream
+
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-=======
+
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="50" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="51" />
@@ -274,7 +267,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="511" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
->>>>>>> Stashed changes
+
   </component>
   <component name="RunManager" selected="Python.SpinalTap">
     <configuration default="false" name="speed_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">

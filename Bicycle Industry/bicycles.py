@@ -11,7 +11,7 @@ class Bicycle(object):
 
 class BicycleShop(object):
 
-    def __init__(self, name, inventory, margin, profit ):
+    def __init__(self, name, inventory, margin, profit):
 
         self.name = name
         self.inventory = inventory
@@ -21,6 +21,7 @@ class BicycleShop(object):
 
 class Customers(object):
 
-    def __init__(self, money, credit):
+    def __init__(self, name, money, credit):
+        self.name = name
         self.money = money
         self.credit = credit
