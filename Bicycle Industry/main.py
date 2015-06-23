@@ -19,7 +19,7 @@ customers = [Customers("Ryan", 200), Customers("Jim", 500), Customers("Megan", 1
 
 for Customers in customers:
 
-    bikes = ", ".join(bike.model for bike in shop.filter(Customers.fund))
+    bikes = ", ".join(bike.model for bike in shop.filter(Customers.money))
     print(Customers.name, "|", bikes)
 
 
@@ -36,9 +36,7 @@ for Customers in customers:
     shop.sell(random.choice(affordables), Customers)
 
     print(template.format)(
-        Customers.name, Customers.bike.model,
-        Customers.bike.price, Customers.fund
-        )
+        Customers.name, Customers.bike.model,Customers.bike.price, Customers.fund)
 
 
 print(shop)

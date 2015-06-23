@@ -16,7 +16,7 @@ class Bicycle(object):
 
 class BicycleShop(object):
 
-    def __init__(self, name, inventory, margin, profit):
+    def __init__(self, name, inventory, margin):
 
         self.name = name
         self.inventory = []
