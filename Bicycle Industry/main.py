@@ -32,11 +32,10 @@ template = "{0} bought the {1} at ${2}, and they have ${3} left over."
 
 for Customers in customers:
 
-    affordables = shop.filter(Customers.fund)
-    shop.sell(random.choice(affordables), Customers)
+    affordable = shop.filter(Customers.money)
+    shop.sell(random.choice(affordable), Customers)
 
-    print(template.format)(
-        Customers.name, Customers.bike.model,Customers.bike.price, Customers.fund)
+    print(template.format(Customers.name, Customers.bike.model,Customers.bike.price, Customers.money))
 
 
 print(shop)
