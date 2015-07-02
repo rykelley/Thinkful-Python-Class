@@ -9,17 +9,17 @@ class Bicycle(object):
 
     def __repr__(self):
 
-        template = "The {0} | Cost: ${1}, Weight: {2}Pounds"
+        template = "The {0} | Cost: ${1}, Weight: {2} Pounds"
         return template.format(self.model, self.cost, self.weight)
 
 
 
 class BicycleShop(object):
 
-    def __init__(self, name, inventory, margin):
+    def __init__(self, name, margin, inventory):
 
         self.name = name
-        self.inventory = []
+        self.inventory = {}
         self.margin = margin
         self.profit = 0
 
@@ -38,12 +38,12 @@ class BicycleShop(object):
     def filter(self, budget):
 
         bikes = self.inventory.values()
-        return [ bike for bike in bikes if bike.price <= budget ]
+        return [bike for bike in bikes if bike.price <= budget ]
 
     def sell(self, bike, customer):
 
         customer.bike = bike
-        customer.fund -= bike.price
+        customer.money -= bike.price
         self.profit += bike.markup
         del self.inventory[bike.model]
 
